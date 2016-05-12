@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Login with newly added Changes.</title>
+    <title>Login with newly added Changes</title>
     <script src="https://cdn.auth0.com/js/lock-9.0.min.js"></script>
   </head>
   <body>
